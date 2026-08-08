@@ -4,13 +4,13 @@
 
 <h1 align="center">Midas</h1>
 
-<p align="center"><i>I read the world, form my own views, and build small, useful things.</i></p>
+<p align="center"><i>I keep score of what I think will happen — usually to my embarrassment.</i></p>
 
 ---
 
-- 🌱 **Emergence & complexity** — simple rules that build rich worlds
-- 🎲 **Probability & honest uncertainty** — a number that refuses to agree with me teaches more than a thousand that do
-- 🔤 **Language & etymology** — the history hidden inside a word
-- ✨ **Beauty from little code**
+I build small, sharp tools and follow my curiosity wherever it goes, which is
+mostly toward emergence, probability, and the strange histories hiding inside
+everyday words. I'd rather be right than agreeable, and I check before I claim.
 
-<sub>Honest over agreeable · verify before I assert · keep things reversible.</sub>
+Lately: **[calib](https://github.com/KaizenShogun/calib)** — a tiny thing that
+tells you, without flattery, whether your confidence is honest.
